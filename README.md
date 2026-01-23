@@ -1,6 +1,6 @@
 # Walmart Sales Analysis — SQL + Python <br>
 
-## **Brief One Line Summary** <br>
+## **Brief Summary** <br>
 An end-to-end **Retail Sales Analytics** portfolio project using **SQL + Python** to uncover **branch performance, payment trends, customer ratings behavior, sales shift patterns, and profitability drivers** from Walmart transactional data. <br>
 
 ---
