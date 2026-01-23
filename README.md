@@ -151,10 +151,10 @@ This project successfully transforms raw Walmart sales transactions into a struc
 ---
 
 ## **Author & Contact** <br>
-**Rohan Gupta** <br>
+**Deepanshu Gupta** <br>
 Data Analyst | SQL • Python • Business Analytics <br><br>
 
 📌 LinkedIn: https://www.linkedin.com/in/deepanshu-gupta-3ab3861b8/ <br>
-📌 GitHub:  <br><br>
+📌 GitHub:  <br> https://github.com/deepanshugupta2610-369/walmart_sales_analysis_sql_python <br>
 
 ⭐ If you found this project useful, feel free to star this repository. <br>
