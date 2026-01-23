@@ -39,7 +39,7 @@ This project uses **Walmart Sales Transaction Data** containing: <br>
 - Customer rating <br><br>
 
 **Dataset Source (Kaggle):** <br>
-➡️ `<ADD-KAGGLE-DATASET-LINK-HERE>` <br><br>
+➡️ https://www.kaggle.com/datasets/najir0123/walmart-10k-sales-datasets <br><br>
 
 Files included: <br>
 - `Walmart.csv` (raw dataset) <br>
@@ -92,8 +92,6 @@ This project demonstrates strong analytical coverage across: <br>
 ✅ **Business performance** (profitability by category) <br>
 ✅ **Operations planning** (busiest days + shift peaks) <br>
 ✅ **Risk detection** (YoY decline branches) :contentReference[oaicite:2]{index=2} <br><br>
-
-**What this proves:** I can deliver analytics in the way businesses consume it — structured insights with action-ready recommendations, not just technical output. <br>
 
 ---
 
@@ -155,6 +153,6 @@ This project successfully transforms raw Walmart sales transactions into a struc
 Data Analyst | SQL • Python • Business Analytics <br><br>
 
 📌 LinkedIn: https://www.linkedin.com/in/deepanshu-gupta-3ab3861b8/ <br>
-📌 GitHub:  <br> https://github.com/deepanshugupta2610-369/walmart_sales_analysis_sql_python <br>
+📌 GitHub:   https://github.com/deepanshugupta2610-369/walmart_sales_analysis_sql_python <br>
 
 ⭐ If you found this project useful, feel free to star this repository. <br>
